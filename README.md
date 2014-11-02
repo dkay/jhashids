@@ -1,4 +1,4 @@
 jhashids
 ========
 
-optimized hashids implementation
+optimized hashids implementation for java
